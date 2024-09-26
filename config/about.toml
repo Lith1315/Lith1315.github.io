@@ -1,8 +1,8 @@
 name = "Leen Loweiti"
 rol = "Versatile Developer"
-email = "richard@example.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 26, 1996"
+email = "leenloweiti.com"
+phone = "+961 81 907 662"
+birthday = "December 1st, 2003"
 location = "Sacramento, California, USA"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "richardhanrick" # <-- github user name
