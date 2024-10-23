@@ -3,12 +3,12 @@ rol = "Versatile Developer"
 email = "leenloweiti.com"
 phone = "+961 81 907 662"
 birthday = "December 1st, 2003"
-location = "Sacramento, California, USA"
+location = "Beirut, Lebanon"
 avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
+username = "Lith1315" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I’m a passionate software developer specializing in creating intuitive and functional web and mobile applications. With experience in both front-end and back-end development, I focus on designing user-centered solutions that blend functionality with creativity. My goal is to transform complex challenges into smooth, elegant digital experiences that are both visually engaging and highly efficient.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I enjoy tackling new problems, refining user interfaces, and building seamless systems that enhance both user experience and performance. Whether working on small projects or large-scale applications, I strive to deliver high-quality results that resonate with the end user.
 """
